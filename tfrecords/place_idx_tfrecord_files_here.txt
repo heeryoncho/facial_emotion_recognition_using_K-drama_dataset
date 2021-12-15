@@ -18,4 +18,4 @@ tfrecords
 ├─ multi-label_train.idx
 ├─ multi-label_train.tfrecords
 ├─ multi-label_valid.idx
-├─ multi-label_valid.tfrecords
+└─ multi-label_valid.tfrecords
