@@ -1,0 +1,21 @@
+You should place the dataset (i.e., .idx and .tfrecord files) under the tfrecords folder/directory:
+
+tfrecords
+├─ 22_emo_test.idx
+├─ 22_emo_test.tfrecords
+├─ 22_emo_train.idx
+├─ 22_emo_train.tfrecords
+├─ 22_emo_valid.idx
+├─ 22_emo_valid.tfrecords
+├─ 6_basic_emo_test.idx
+├─ 6_basic_emo_test.tfrecords
+├─ 6_basic_emo_train.idx
+├─ 6_basic_emo_train.tfrecords
+├─ 6_basic_emo_valid.idx
+├─ 6_basic_emo_valid.tfrecords
+├─ multi-label_test.idx
+├─ multi-label_test.tfrecords
+├─ multi-label_train.idx
+├─ multi-label_train.tfrecords
+├─ multi-label_valid.idx
+├─ multi-label_valid.tfrecords
