@@ -46,14 +46,14 @@ We built three deep learning classification models (**autoencoder, CNN, ResNet50
 | ConvNN      |  72.93  |  82.02   |
 | ResNet50    |  84.24  |  83.69   |
 
-### Table 3. Accuracy of Multi-Label Experiments with Differnt Thresholds (%)
+### Table 3. Accuracy of Multi-Label Experiments with Different Thresholds (%)
 | Model       |  0.1  |  0.2  |  0.3  |  0.4  |  0.5  |
 |-------------|-------|-------|-------|-------|-------|
 | Autoencoder |  2.19 | 19.86	| 24.06 | 18.99 | 10.56 |
 | ConvNN      | 48.82 | 60.82 | 65.30 | 67.65 | 68.03 |
 | ResNet50    | 71.56 | 76.46 | 73.83 | 70.02 | 64.73 |
 
-Note that in the case of multi-label classification, we evaluated the result by setting different thresholds (0.1, 0.2, 0.3, 0.4, and 0.5) and converted the output values to '1' if the sigmoid output values exceeded the threshold.
+Note that in the case of multi-label classification, we evaluated the result by setting different thresholds (0.1, 0.2, 0.3, 0.4, and 0.5) and converted the class predictions to '1' if the sigmoid output exceeded the threshold.
 Then we calculated the exact match accuracy of the predicted output and the true label. 
 This is a very strict measure since it does not account for partial correctness of the multi-label predictions.
 
