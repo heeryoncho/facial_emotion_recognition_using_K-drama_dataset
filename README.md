@@ -21,7 +21,7 @@ We also use [NVIDIA DALI](https://docs.nvidia.com/deeplearning/dali/user-guide/d
 
 ## Downloading Data
 Please access the below link (website of Humanities Research Institute, Chung-Ang University, Seoul, South Korea) to request the dataset.
-You will need to sign a user agreement to download and dataset for non-commercial research.
+You will need to sign a user agreement to download the dataset for non-commercial research.
 * [http://aihumanities.org/en/archive/datasets/?vid=2](http://aihumanities.org/en/archive/datasets/?vid=2)
 
 ## Experiments
