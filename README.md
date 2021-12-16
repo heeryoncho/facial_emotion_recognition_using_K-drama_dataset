@@ -20,7 +20,7 @@ Our code is tested on:
 We also use [NVIDIA DALI](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) library to expedite the preprocessing of data.
 
 ## Downloading Data
-Please access the below link (website of Humanities Research Institute, Chung-Ang University, Seoul, South Korean) to request the dataset.
+Please access the below link (website of Humanities Research Institute, Chung-Ang University, Seoul, South Korea) to request the dataset.
 You will need to sign a user agreement to download and dataset for non-commercial research.
 * [http://aihumanities.org/en/archive/datasets/?vid=2](http://aihumanities.org/en/archive/datasets/?vid=2)
 
