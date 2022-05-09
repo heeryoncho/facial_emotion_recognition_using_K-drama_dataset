@@ -1,5 +1,5 @@
 # Multi-Label Facial Emotion Recognition Using Korean Drama Video Clips
-This is the code for BigComp 2022 paper [Multi-label Facial Emotion Recognition Using Korean Drama Video Clips]() by 
+This is the code for BigComp 2022 paper [Multi-label Facial Emotion Recognition Using Korean Drama Video Clips](https://doi.org/10.1109/BigComp54360.2022.00049) by 
 Heeryon Cho, Woo Kyu Kang, Younsoo Park, Sungeu Chae, and Seong-joon Kim.
 
 We constructed a novel multi-label facial emotion recognition dataset containing 38,817 colored cropped face images (64 X 64 pixels) tagged with 23 emotion labels. 
@@ -61,10 +61,10 @@ This is a very strict measure since it does not account for partial correctness 
 If you find this useful, please cite our work as follows:
 ```
 @inproceedings{bigcomp2022_k-drama_FER,
-  author    = {Heeryon Cho and Woo Kyu Kang and Younsoo Park and Sungeu Chae and Seong-joon Kim},
-  title     = {Multi-Label Facial Emotion Recognition Using Korean Drama Video Clips},
-  crossref  = {BigComp:2022},  
-  pages     = {},
+  author    = {Cho, Heeryon and Kang, Woo Kyu and Park, Youn-Soo and Chae, Sun Geu and Kim, Seong-joon},
+  booktitle = {2022 IEEE International Conference on Big Data and Smart Computing (BigComp)},
+  title     = {Multi-Label Facial Emotion Recognition Using Korean Drama Video Clips},  
+  pages     = {215-221},
   year      = {2022},
-
+  doi       = {10.1109/BigComp54360.2022.00049}}
 ```
